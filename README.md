@@ -1,1 +1,2 @@
-# tmc429-with-micropython
+# tmc429.py include __init__ and some nomorl function
+
